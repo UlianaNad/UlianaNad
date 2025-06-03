@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Uliana Nadorizhna
+# Hi! 👋 I'm Uliana Nadorozhna
 
 I'm a student at 42 Hive Helsinki and a developer working primarily with C. I am also actively learning JavaScript, React, and Node.js. I'm passionate about frontend development and building modern web applications.
 
