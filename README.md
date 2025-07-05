@@ -6,7 +6,6 @@ Completed projects:
 - [libft](https://github.com/UlianaNad/libft) — my own C library of standard functions  
 - [get_next_line](https://github.com/UlianaNad/get_next_line) — reading lines from a file sequentially (C)  
 - [ft_printf](https://github.com/UlianaNad/ft_printf) — custom implementation of printf (C)  
-- Currently working on [born2beroot](https://github.com/UlianaNad/born2beroot) — system projects in C  
 
 ---
 
