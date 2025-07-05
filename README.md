@@ -4,7 +4,7 @@ I'm a student at 42 Hive Helsinki and a developer working primarily with C. I am
 
 Completed projects:  
 - [libft](https://github.com/UlianaNad/libft) — my own C library of standard functions  
-- [get_next_line]([https://github.com/UlianaNad/get_next_line](https://github.com/UlianaNad/get_next_line42)) — reading lines from a file sequentially (C)  
+- [get_next_line](https://github.com/UlianaNad/get_next_line42) — reading lines from a file sequentially (C)  
 - [ft_printf](https://github.com/UlianaNad/ft_printf) — custom implementation of printf (C)  
 
 ---
